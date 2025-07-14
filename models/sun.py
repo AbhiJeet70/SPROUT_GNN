@@ -40,7 +40,6 @@ class SUN(nn.Module):
     def forward(self, x, edge_index):
         num_nodes = x.size(0)
         subgraph_masks = torch.zeros(num_nodes, dtype=torch.bool, device=x.device)
-        # Example: mark every node as root (for simplicity)
         subgraph_masks[:] = True
         x = self.layer1(x, edge_index, subgraph_masks)
         x = F.relu(x)

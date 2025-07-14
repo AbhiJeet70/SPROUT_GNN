@@ -7,7 +7,7 @@ import networkx as nx
 from dataset import select_diverse_nodes 
 
 def inject_trigger(data, poisoned_nodes, attack_type, model, trigger_gen=None, ood_detector=None,
-                   alpha=0.7, trigger_size=5, trigger_density=0.5, input_dim=None):
+                   alpha=0.7, trigger_size=3, trigger_density=0.5, input_dim=None):
     # Clone data to avoid overwriting the original graph
     data_poisoned = data.clone()
     device = data_poisoned.x.device
