@@ -128,32 +128,6 @@ If you found this project useful or interesting, please consider giving it a sta
 ## References 
 
 ```bibtex
-@article{Dhali2025SAGNN,
-	author = {Dhali, Abhijeet and Dividino, Renata},
-	journal = {Proceedings of the Canadian Conference on Artificial Intelligence},
-	year = {2025},
-	month = {may 19},
-	note = {https://caiac.pubpub.org/pub/s0xf3xtc},
-	publisher = {Canadian Artificial Intelligence Association (CAIAC)},
-	title = {SAGNN+{CS}: A {Resilient} {Graph} {Neural} {Network} {Framework} {Against} {Backdoor} {Threats}},
-}
-@article{Dhali2025How,
-	author = {Dhali, Abhijeet and Dividino, Renata},
-	journal = {Proceedings of the Canadian Conference on Artificial Intelligence},
-	year = {2025},
-	month = {may 19},
-	note = {https://caiac.pubpub.org/pub/nvckf4bi},
-	publisher = {Canadian Artificial Intelligence Association (CAIAC)},
-	title = {How {Robust} {Are} {Higher}-{Order} {Graph} {Neural} {Networks} to {Backdoor} {Attacks}?},
-}
-@inproceedings{dhali2024power,
-  title={The Power of Many: Investigating Defense Mechanisms for Resilient Graph Neural Networks},
-  author={Dhali, Abhijeet and Dividino, Renata},
-  booktitle={2024 IEEE International Conference on Big Data (BigData)},
-  pages={3572--3578},
-  year={2024},
-  organization={IEEE}
-}
 
 @inproceedings{bevilacqua2022equivariant,
   title={Equivariant Subgraph Aggregation Networks},
