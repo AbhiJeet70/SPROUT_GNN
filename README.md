@@ -120,3 +120,4 @@ use python main.py to run all the models.
 You can also specify the model which you want the results for by writing python main.py model_type (example: sagnn+cs or sagn or sun or esan or gnn).
 
 ```
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17095064.svg)](https://doi.org/10.5281/zenodo.17095064)
