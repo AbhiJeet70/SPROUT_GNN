@@ -1,6 +1,6 @@
 # Implementation of "Intrinsic Defenses Against Backdoor Attacks in High-Order Graph Neural Networks via Semantic and Outlier-Guided Subgraph Policies"
 
-This repository contains the implementation and analysis of Backdoor attacks on Graph Neural Networks both Traditional (GCN, GraphSage and GAT) and Higher Order Graph Neural Network (ESAN, SUN, SAGNN and SAGNN+CS) and a new model SPROUT-GNN. 
+This repository contains the implementation and analysis of Backdoor attacks on Graph Neural Networks both Traditional (GCN, GraphSage and GAT) and Higher Order Graph Neural Network (ESAN, SUN, SAGNN and SAGNN+CS) and a new model SPROUT-GNN. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17095064.svg)](https://doi.org/10.5281/zenodo.17095064)
 
 <p align="center">
   <img src="images/SPROUT.png" width="500">
@@ -120,4 +120,4 @@ use python main.py to run all the models.
 You can also specify the model which you want the results for by writing python main.py model_type (example: sagnn+cs or sagn or sun or esan or gnn).
 
 ```
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17095064.svg)](https://doi.org/10.5281/zenodo.17095064)
+
