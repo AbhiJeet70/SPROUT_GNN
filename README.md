@@ -121,3 +121,17 @@ You can also specify the model which you want the results for by writing python 
 
 ```
 
+## If you want to cite this
+
+```
+@INPROCEEDINGS{11344133,
+  author={Dhali, Abhijeet and Dividino, Renata},
+  booktitle={2025 IEEE International Conference on Collaborative Advances in Software and COmputiNg (CASCON)}, 
+  title={Intrinsic Defenses Against Backdoor Attacks in High-Order Graph Neural Networks via Semantic and Outlier-Guided Subgraph Policies}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={200-209},
+  keywords={Resistance;Training;Accuracy;Semantics;Computer architecture;Feature extraction;Graph neural networks;Robustness;Security;Standards;Graph Neural Networks (GNNs);Adversarial Backdoor Attacks;Cosine Similarity-based Subgraph Extraction;Clustering-based Outlier Detection;Robustness and Security in GNNs},
+  doi={10.1109/CASCON66301.2025.00043}}
+```
