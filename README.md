@@ -1,6 +1,6 @@
 # Implementation of "Intrinsic Defenses Against Backdoor Attacks in High-Order Graph Neural Networks via Semantic and Outlier-Guided Subgraph Policies"
 
-This repository contains the implementation and analysis of Backdoor attacks on Graph Neural Networks both Traditional (GCN, GraphSage and GAT) and Higher Order Graph Neural Network (ESAN, SUN, SAGNN and SAGNN+CS) and a new model SPROUT-GNN. [![DOI](https://ieeexplore.ieee.org/abstract/document/11344133)](https://ieeexplore.ieee.org/abstract/document/11344133)
+This repository contains the implementation and analysis of Backdoor attacks on Graph Neural Networks both Traditional (GCN, GraphSage and GAT) and Higher Order Graph Neural Network (ESAN, SUN, SAGNN and SAGNN+CS) and a new model SPROUT-GNN. [![DOI]](https://ieeexplore.ieee.org/abstract/document/11344133)
 
 <p align="center">
   <img src="images/SPROUT.png" width="500">
